@@ -1,0 +1,6 @@
+{
+  "name": "Moodle API Studio",
+  "description": "Interactive Moodle Web Services REST API client, explorer, code generator, and LMS visualizer with built-in sandbox and live proxy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
